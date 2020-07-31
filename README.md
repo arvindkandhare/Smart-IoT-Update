@@ -1,0 +1,2 @@
+# Smart-IoT-Update
+Azure IoT Devices(e.g. sensors) need to have latest OS/application binaries for ensuring that they are secure against malicious attacks from hackers and untrusted sources. With the current prominent solutions, there are challenges which needs to be tackled for meeting the growing IoT market demands of future. The goal of my project is to propose a solution which could solve the concerns with existing solutions and cater to the growing needs of future IoT market.
